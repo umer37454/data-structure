@@ -1,4 +1,4 @@
-package Arrays;
+package Arrays_01;
 
 public class lengthArray {
     public static void main(String[] args) {

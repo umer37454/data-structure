@@ -1,5 +1,5 @@
 //sum of n natural numbers without array
-package Arrays;
+package Arrays_01;
 
 import java.util.Scanner;
 

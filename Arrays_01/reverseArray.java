@@ -1,6 +1,6 @@
 //reversing an array
 
-package Arrays;
+package Arrays_01;
 
 import java.util.Arrays;
 
