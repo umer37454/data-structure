@@ -2,7 +2,7 @@ package Arrays_01;
 
 import java.util.Arrays;
 
-public class deletion {
+public class _11_deletion {
     public static void main(String[] args) {
         int[] arr = {54, 25, 63, 87, 56, 14, 47, 36};
 

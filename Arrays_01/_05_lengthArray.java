@@ -1,6 +1,6 @@
 package Arrays_01;
 
-public class lengthArray {
+public class _05_lengthArray {
     public static void main(String[] args) {
         int[] arr ={4,5,2,6,9,7,2,3,6,9,9};
 

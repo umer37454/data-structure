@@ -2,7 +2,7 @@ package Arrays_01;
 
 import java.util.Arrays;
 
-public class insertion {
+public class _12_insertion {
     public static void main(String[] args) {
         int[] arr = {45, 25, 56, 45, 87};
         int element = 52;

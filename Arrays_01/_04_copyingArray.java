@@ -1,6 +1,6 @@
 package Arrays_01;
 
-public class copyingArray {
+public class _04_copyingArray {
     public static void main(String[] args){
         int[] arr = {54,52,87,56,63,14,4};
 

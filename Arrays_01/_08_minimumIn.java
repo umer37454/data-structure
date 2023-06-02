@@ -1,6 +1,6 @@
 package Arrays_01;
 
-public class minimumIn {
+public class _08_minimumIn {
     public static void main(String[] args) {
         int[] arr = {54, 25, 65, 35, 45, 87, 96, 32, 14, 2, 15};
 

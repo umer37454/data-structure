@@ -4,7 +4,7 @@ package Arrays_01;
 
 import java.util.Arrays;
 
-public class reverseArray {
+public class _06_reverseArray {
     public static void main(String[] args) {
         int[] arr = {4, 8, 5, 6, 2, 7, 9, 6, 2, 15, 96, 25};
         int[] arr2 = {4, 8, 5, 6, 2, 7, 9, 6, 2, 15, 96, 25};

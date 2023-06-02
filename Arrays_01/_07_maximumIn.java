@@ -1,6 +1,6 @@
 package Arrays_01;
 
-public class maximumIn {
+public class _07_maximumIn {
     public static void main(String[] args) {
         int[] arr = {45,12,47,58,56,23,68,414,25,74,68,41,35,97};
 

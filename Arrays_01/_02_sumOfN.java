@@ -3,7 +3,7 @@ package Arrays_01;
 
 import java.util.Scanner;
 
-public class sumOfN {
+public class _02_sumOfN {
     public static void main(String[] args){
         Scanner in = new Scanner(System.in);
         int n = in.nextInt();

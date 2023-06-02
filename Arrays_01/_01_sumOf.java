@@ -1,6 +1,6 @@
 package Arrays_01;
 
-public class sumOf {
+public class _01_sumOf {
     public static void main(String[] args){
         int[] arr = {55,54,85,69,23,47,69,52};
         int sum = sum(arr);

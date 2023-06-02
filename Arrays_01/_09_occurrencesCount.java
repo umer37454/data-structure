@@ -1,6 +1,6 @@
 package Arrays_01;
 
-public class occurrencesCount {
+public class _09_occurrencesCount {
     public static void main(String[] args){
         int[] arr = {4,2,5,8,7,5,4,5,4,5,1,4,59,6,4,4,7,4,1,23,6};
         int element = 5;
