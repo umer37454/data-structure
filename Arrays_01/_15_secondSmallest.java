@@ -3,6 +3,7 @@ package Arrays_01;
 public class _15_secondSmallest {
     public static void main(String[] args){
         int[] arr = {5, 10, 3, 8, 2};
+
         int result = secondSmallest(arr);
         System.out.println(result);
     }
@@ -12,10 +13,10 @@ public class _15_secondSmallest {
         int min = arr[0];
 
         for (int j : arr) {
-            if (j > min) {
+            if (min > j) {
                 secSmallest = min;
                 min = j;
-            } else if (j != min && j > secSmallest) {
+            } else if (min != j && secSmallest > j){
                 secSmallest = j;
             }
         }
