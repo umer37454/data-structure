@@ -2,6 +2,7 @@ package Arrays_01;
 
 public class _16_removeDuplicates {
     public static void main(String[] args){
+        //unsorted arrays
         int[] arr = {4,2,5,8,6,3,2,3,7,5};
 
         duplicate(arr);

@@ -12,16 +12,14 @@ public class _19_mergeArrays {
     }
 
     static int[] merge(int[] arr1, int[] arr2){
-        int a = arr1.length;
-        int b = arr2.length;
-        int[] result = new int[a + b];
+        int[] result = new int[arr1.length + arr2.length];
 
         for (int i = 0; i < arr1.length; i++){
             result[i] = arr1[i];
         }
 
         for (int i = 0; i < arr2.length; i++){
-            result[a + i] = arr2[i];
+            result[arr1.length + i] = arr2[i];
         }
 
         return result;
